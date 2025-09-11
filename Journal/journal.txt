@@ -1,0 +1,10 @@
+Jolina Dang
+jdang06@terpmail.umd.edu
+Section 0203
+
+Week 1 - AI Usage Journal
+
+I used AI to grammar check each of my writing assignments, which are mostly discussion responses. I do not have the AI link because I used Grammarly instead of ChatGPT.
+
+I also utilized AI to better understand this week's lecture notes. I was initially confused about what the number 35 did in {soil:35} because I didn't see that number in the printed statement. I also asked ChatGPT to explain .format as the note encouraged asking AI about it. Here is my AI chat link: https://chatgpt.com/share/68c30681-a530-800f-9e76-dc40c3ecca7a. As seen through the link, I used ChatGPT to develop a deeper understanding of the notes by going through each line in the lines of code I needed clarity on; however, I did not use ChatGPT to complete coding exercises or write any code for me to use at all.
+
