@@ -18,8 +18,8 @@ I used ChatGPT to explain the last question of this week's exercise as I didn't 
 Week 3
 
 I used ChatGPT in this week's exercise. I couldn't get to the bottom of why my program kept outputting -1. I looked over my program multiple times, ensuring that my spelling and overall code structure was correct. After becoming frustrated, I decided to put my code into ChatGPT and ask why I kept getting -1 as the result. Here is my AI chat link: https://chatgpt.com/s/t_68d9c576a1b881919e3a93b193203c60. I immediately realized that I made a careless mistake of putting my else statement inside my loop, which prevented the program from checking the rest of the list. I made this mistake twice, as I left the else statement inside another loop, preventing my function from checking the rest of the list. Here is the AI chat link: https://chatgpt.com/s/t_68d9c7ad4754819187a5a50bc51322ec.
+
 Week 4
 
 I searched up the meaning of "pad to 6 digits," as I saw it written in one of the exercise prompts. I used the AI overview to find the answer to my question. I immediately found out that padding to 6 digits means adding 0 to a number until there are 6 digits, as seen with the link: https://www.google.com/search?q=pad+to+6+digits+meaning&oq=pad+to+6+digits+meaning&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxifBTIJCAAQRRg7GJ8FMgcIARAhGKABMgcIAhAhGKABMgcIAxAhGKABMgcIBBAhGKABMgcIBRAhGJ8FMgcIBhAhGJ8FMgcIBxAhGJ8FMgcICBAhGJ8F0gEIMzE5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8.
 
-I saw "m.borrow_one(); m.borrow_one(); m.borrow_one()" in a single line of code for one of this week's exercises. I thought that that code just repeated the method multiple times, but I wanted to confirm so I asked ChatGPT what this line of code does. It confirmed my guess, as seen in the AI chat link: https://chatgpt.com/s/t_68e335b5a944819193ef43b718bef407.
