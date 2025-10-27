@@ -23,6 +23,8 @@ Week 4
 
 I searched up the meaning of "pad to 6 digits," as I saw it written in one of the exercise prompts. I used the AI overview to find the answer to my question. I immediately found out that padding to 6 digits means adding 0 to a number until there are 6 digits, as seen with the link: https://www.google.com/search?q=pad+to+6+digits+meaning&oq=pad+to+6+digits+meaning&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxifBTIJCAAQRRg7GJ8FMgcIARAhGKABMgcIAhAhGKABMgcIAxAhGKABMgcIBBAhGKABMgcIBRAhGJ8FMgcIBhAhGJ8FMgcIBxAhGJ8FMgcICBAhGJ8F0gEIMzE5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8.
 
+I saw "m.borrow_one(); m.borrow_one(); m.borrow_one()" in a single line of code for one of this week's exercises. I thought that that code just repeated the method multiple times, but I wanted to confirm so I asked ChatGPT what this line of code does. It confirmed my guess, as seen in the AI chat link: https://chatgpt.com/s/t_68e335b5a944819193ef43b718bef407.
+
 Week 5
 
 I searched up how to get an ISO date string on Google. I used the AI overview box because it was on top of the results and I wanted to find an answer quickly without having to click on a site. The AI overview provided two best methods to get an ISO date string and I used the first method, which was .isoformat(), as seen with the link: https://www.google.com/search?q=how+do+i+as+ISO+date+strings+%27YYYY-MM-DD%27+in+python&oq=how+do+i+as+ISO+date+strings+%27YYYY-MM-DD%27+in+python&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKABMgkIBRAhGAoYoAEyBwgGECEYqwIyBwgHECEYqwLSAQg0MTc4ajBqOagCBrACAfEF94Ry1W_2Pvs&sourceid=chrome&ie=UTF-8.
