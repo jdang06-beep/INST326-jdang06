@@ -36,3 +36,10 @@ Week 6
 I used ChatGPT to clarify the purpose of a single underscore in the beginning of a class attribute. I had only remembered the meaning of two underscores in the beginning of a class attribute, so reading Chat's response gave me more clarity on the difference between a class attribute with no underscores and a class attribute with one underscore. In the end, the response allowed me to understand why the class attribute in the third exercise was _counter, not __counter or counter. Here is my AI chat link: https://chatgpt.com/s/t_68ffcf9f5db481918b4576698d178668.
 
 I also used ChatGPT if it was necessary to include type hints like :str and :int because I saw that my groupmate didn't include the type hints in their class. Up until I asked ChatGPT, I thought the hints were required for classes. Here is the chat link: https://chatgpt.com/s/t_68ffd0aee6b08191ae8651945aec6a2e.
+
+Week 7
+
+I didn't know what purpose "(Exception)" served in the Starter Helpers for this week's exercises. I searched up what it does online; however, I didn't find an answer immediately. In fact, Google gave me answers that addressed "exception" in the body, not next to class. As a result, I moved to ChatGPT to directly ask, "what does (exception) in class LibraryError(Exception): do?" Here is the AI chat link: https://chatgpt.com/s/t_690d1b69016481918bea101feee624d5.
+
+By first glance, I didn't fully understand what the line of code "self.add_book(Book(isbn=item['isbn'], title=item['title'], copies=item.get('copies', 1)))" was doing in the Starter Helpers, so I went to ChatGPT. I thought the code was adding to a dictionary, so I was confused why there were more than two arguments. I didn't understand how that worked since just a key and its value are usually added to dictionary. I asked ChatGPT to explain, and it made it clear that the line of code wasn't adding to a dictionary but creaing a Book object.
+
