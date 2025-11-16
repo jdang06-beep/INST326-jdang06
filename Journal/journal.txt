@@ -43,3 +43,10 @@ I didn't know what purpose "(Exception)" served in the Starter Helpers for this 
 
 By first glance, I didn't fully understand what the line of code "self.add_book(Book(isbn=item['isbn'], title=item['title'], copies=item.get('copies', 1)))" was doing in the Starter Helpers, so I went to ChatGPT. I thought the code was adding to a dictionary, so I was confused why there were more than two arguments. I didn't understand how that worked since just a key and its value are usually added to dictionary. I asked ChatGPT to explain, and it made it clear that the line of code wasn't adding to a dictionary but creaing a Book object.
 
+Week 8
+
+I didn't know what a naive stock check was in this week's starter code, so I went to Google to search up what it is in Python. I used the AI overview to find the answer, which made me realize that a naive stock check wasn't as technical as I thought or directly related to anything in terms of code. Here is the AI overview: https://www.google.com/search?q=what+is+naive+stock+check+in+python&oq=what+is+naive+stock+check+&gs_lcrp=EgZjaHJvbWUqBwgFECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRiPAjIHCAcQIRiPAtIBCDgyODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8.
+
+Since I started this week's exercises late, I needed a reminder on method inheritance, so I asked ChatGPT to clarify the differences between method overriding and method inheritance. Here is the chat link: https://chatgpt.com/s/t_691920b145fc819184cf9242c816d73a. Reading the answers helped me feel more confident in my polymorphic design.
+
+
