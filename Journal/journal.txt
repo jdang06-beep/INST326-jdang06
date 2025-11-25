@@ -49,4 +49,14 @@ I didn't know what a naive stock check was in this week's starter code, so I wen
 
 Since I started this week's exercises late, I needed a reminder on method inheritance, so I asked ChatGPT to clarify the differences between method overriding and method inheritance. Here is the chat link: https://chatgpt.com/s/t_691920b145fc819184cf9242c816d73a. Reading the answers helped me feel more confident in my polymorphic design.
 
+Week 9
+
+I needed help with adding borrowable on the sixth exercise, so I asked ChatGPT to provide an example of an abstract property for borrowable items. The example showed me exactly how to define the abstract property and how to override it in PrintedBook, EBook, and AudioBook, as seen with the link: https://chatgpt.com/s/t_6925020a78388191bb5bc2d7ba0b3e57.
+
+I also needed help with exercise 15 to create a unittest suite, so I asked ChatGPT, "How can I write unittest tests to confirm that subclasses implement abstract methods correctly?" Here is the chat link: https://chatgpt.com/s/t_6925031015388191b24fbfcd9cb871c7.
+
+
+
+
+
 
