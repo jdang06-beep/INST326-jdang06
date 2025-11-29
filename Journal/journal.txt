@@ -55,6 +55,11 @@ I needed help with adding borrowable on the sixth exercise, so I asked ChatGPT t
 
 I also needed help with exercise 15 to create a unittest suite, so I asked ChatGPT, "How can I write unittest tests to confirm that subclasses implement abstract methods correctly?" Here is the chat link: https://chatgpt.com/s/t_6925031015388191b24fbfcd9cb871c7.
 
+Week 10
+
+I wasn't certain on how to approach exercise 8, specifically creating a new Book while leaving the original unchanged. This led me to ask ChatGPT, "How can I create a modified copy of a dataclass instance without changing the original?" ChatGPT provided an example code which I used to outline my code for exercise 8. The example code can be seen with the link: https://chatgpt.com/s/t_692b436926448191926c10ee432ba400. I also referred back to this conversation as I worked on exercise 12 since I had to write a method that returned a new Book with more copies, without changing the original.
+
+
 
 
 
