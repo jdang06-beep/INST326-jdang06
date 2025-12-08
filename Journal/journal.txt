@@ -59,7 +59,9 @@ Week 10
 
 I wasn't certain on how to approach exercise 8, specifically creating a new Book while leaving the original unchanged. This led me to ask ChatGPT, "How can I create a modified copy of a dataclass instance without changing the original?" ChatGPT provided an example code which I used to outline my code for exercise 8. The example code can be seen with the link: https://chatgpt.com/s/t_692b436926448191926c10ee432ba400. I also referred back to this conversation as I worked on exercise 12 since I had to write a method that returned a new Book with more copies, without changing the original.
 
+Week 12
 
+I started on the Project 4 late, so I haven't used AI much. Since I chose to create the tests for the final project, I wanted a refresher on the difference between integration testing and system testing. I searched "code integration tests vs system tests" on Google and used the AI overview result, as seen with the link: https://www.google.com/search?q=code+integration+tests+vs+system+tests&oq=code+integration+tests+vs+system+tests&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDMzODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8. The short response gave me more clarity on the difference between the types of testing, so now I am better prepared to create both tests for the project. 
 
 
 
