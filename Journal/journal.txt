@@ -63,7 +63,9 @@ Week 12
 
 I started on the Project 4 late, so I haven't used AI much. Since I chose to create the tests for the final project, I wanted a refresher on the difference between integration testing and system testing. I searched "code integration tests vs system tests" on Google and used the AI overview result, as seen with the link: https://www.google.com/search?q=code+integration+tests+vs+system+tests&oq=code+integration+tests+vs+system+tests&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDMzODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8. The short response gave me more clarity on the difference between the types of testing, so now I am better prepared to create both tests for the project. 
 
+Week 13
 
+I was adding new information to my project's README file. I was trying to add normal text; however, it kept showing as code. I meant to only add a piece of code but the rest of the text after become code as well. I did not want this and couldn't figure out why the text changed to code so I asked ChatGPT to read the document and figure out what made all the text turn into code, as seen with the chat link: https://chatgpt.com/s/t_693a1b7c27e8819188844c891e6ba03e. After, I immediately realized I made a careless mistake of not ending the code.
 
 
 
